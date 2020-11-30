@@ -1,0 +1,19 @@
+C:\tp2\Proyecto7\Proyecto7\bin\Debug\Proyecto7.exe.config
+C:\tp2\Proyecto7\Proyecto7\bin\Debug\Proyecto7.exe
+C:\tp2\Proyecto7\Proyecto7\bin\Debug\Proyecto7.pdb
+C:\tp2\Proyecto7\Proyecto7\obj\Debug\Proyecto7.Form1.resources
+C:\tp2\Proyecto7\Proyecto7\obj\Debug\Proyecto7.Properties.Resources.resources
+C:\tp2\Proyecto7\Proyecto7\obj\Debug\Proyecto7.csproj.GenerateResource.cache
+C:\tp2\Proyecto7\Proyecto7\obj\Debug\Proyecto7.csproj.CoreCompileInputs.cache
+C:\tp2\Proyecto7\Proyecto7\obj\Debug\Proyecto7.exe
+C:\tp2\Proyecto7\Proyecto7\obj\Debug\Proyecto7.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\bin\Debug\Proyecto7.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\bin\Debug\Proyecto7.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\bin\Debug\Proyecto7.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto7\Proyecto7\obj\Debug\Proyecto7.pdb
